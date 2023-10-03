@@ -1,0 +1,5 @@
+@EndUserText.label: 'Z_SHOP_API_SCM_C82'
+@OData.schema.name: 'cds_zsd_shop_c82'
+define service Z_SHOP_API_SCM_C82 {
+ expose ZONLINE_SHOPDBD8D9102B; 
+ } 

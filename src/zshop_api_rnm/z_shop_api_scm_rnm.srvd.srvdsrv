@@ -1,0 +1,5 @@
+@EndUserText.label: 'Z_SHOP_API_SCM_RNM'
+@OData.schema.name: 'cds_zsd_shop_rnm'
+define service Z_SHOP_API_SCM_RNM {
+ expose ZONLINE_SHOP_RNM; 
+ } 

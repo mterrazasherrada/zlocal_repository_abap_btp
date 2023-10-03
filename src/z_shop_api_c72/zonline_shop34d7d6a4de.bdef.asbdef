@@ -1,0 +1,7 @@
+ implementation abstract;
+ define behavior for ZONLINE_SHOP34D7D6A4DE
+  {
+  create;
+ update;
+ delete;
+ }

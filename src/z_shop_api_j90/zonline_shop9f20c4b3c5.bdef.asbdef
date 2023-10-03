@@ -1,0 +1,8 @@
+ implementation abstract;
+ define behavior for ZONLINE_SHOP9F20C4B3C5
+  etag master ETAG__ETAG
+ {
+  create;
+ update;
+ delete;
+ }

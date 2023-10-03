@@ -1,0 +1,5 @@
+@EndUserText.label: 'Z_SHOP_API_F62'
+@OData.schema.name: 'cds_zsd_shop_f62'
+define service Z_SHOP_API_F62 {
+ expose ZZC_ONLINE_SHOP_F62; 
+ } 

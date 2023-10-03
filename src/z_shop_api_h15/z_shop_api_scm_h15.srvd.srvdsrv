@@ -1,0 +1,15 @@
+@EndUserText.label: 'Z_SHOP_API_SCM_H15'
+@OData.schema.name: 'cds_zsd_shop_h15'
+define service Z_SHOP_API_SCM_H15 {
+ expose ZSAP__FORMATSET; 
+ expose ZSAP__PDFSTANDARDSET; 
+ expose ZSAP__TABLECOLUMNSSET; 
+ expose ZSAP__COVERPAGESET; 
+ expose ZSAP__SIGNATURESET; 
+ expose ZSAP__VALUEHELPSET; 
+ expose ZONLINE_SHOPB2F472018F; 
+ expose ZZC_PREPACKAGEDITEMS_VH; 
+ expose ZSAP__CURRENCIES; 
+ expose ZSAP__UNITSOFMEASURE; 
+ expose ZSAP__MYDOCUMENTDESCRIPTIONS; 
+ } 

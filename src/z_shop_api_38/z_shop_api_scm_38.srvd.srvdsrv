@@ -1,0 +1,5 @@
+@EndUserText.label: 'Z_SHOP_API_SCM_38'
+@OData.schema.name: 'cds_zsd_shop_38'
+define service Z_SHOP_API_SCM_38 {
+ expose ZZC_ONLINE_SHOP_38; 
+ } 

@@ -1,0 +1,7 @@
+ implementation abstract;
+ define behavior for ZZC_ONLINE_SHOP_G33
+  {
+  create;
+ update;
+ delete;
+ }

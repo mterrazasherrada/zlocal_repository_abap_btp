@@ -1,0 +1,5 @@
+@EndUserText.label: 'Z_SHOP_API_SCM_J27'
+@OData.schema.name: 'cds_zsd_shop_j27'
+define service Z_SHOP_API_SCM_J27 {
+ expose ZZC_ONLINE_SHOP_J27; 
+ } 

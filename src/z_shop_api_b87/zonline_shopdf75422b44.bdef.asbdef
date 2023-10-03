@@ -1,0 +1,7 @@
+ implementation abstract;
+ define behavior for ZONLINE_SHOPDF75422B44
+  {
+  create;
+ update;
+ delete;
+ }

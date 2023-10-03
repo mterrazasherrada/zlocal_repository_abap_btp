@@ -1,0 +1,7 @@
+ implementation abstract;
+ define behavior for Z_ONLINESHOP_F89
+  {
+  create;
+ update;
+ delete;
+ }

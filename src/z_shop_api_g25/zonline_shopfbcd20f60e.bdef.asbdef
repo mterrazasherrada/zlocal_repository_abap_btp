@@ -1,0 +1,7 @@
+ implementation abstract;
+ define behavior for ZONLINE_SHOPFBCD20F60E
+  {
+  create;
+ update;
+ delete;
+ }

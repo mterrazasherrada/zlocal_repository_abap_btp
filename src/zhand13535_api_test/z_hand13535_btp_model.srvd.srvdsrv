@@ -1,0 +1,5 @@
+@EndUserText.label: 'Z_HAND13535_BTP_MODEL'
+@OData.schema.name: 'cds_zsd_hand13535'
+define service Z_HAND13535_BTP_MODEL {
+ expose ZZC_HAND13535_API; 
+ } 

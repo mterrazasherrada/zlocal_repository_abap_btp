@@ -1,0 +1,5 @@
+@EndUserText.label: 'Z_SHOP_API_SAPTEST_F101'
+@OData.schema.name: 'cds_zsd_shop_f101'
+define service Z_SHOP_API_SAPTEST_F101 {
+ expose ZONLINE_SHOP_SAPTEST; 
+ } 

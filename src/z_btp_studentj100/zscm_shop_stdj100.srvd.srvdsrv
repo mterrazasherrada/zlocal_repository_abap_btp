@@ -1,0 +1,5 @@
+@EndUserText.label: 'ZSCM_SHOP_STDJ100'
+@OData.schema.name: 'cds_zsd_shop_stdj100'
+define service ZSCM_SHOP_STDJ100 {
+ expose ZONLINE_SHOP937719316D; 
+ } 
